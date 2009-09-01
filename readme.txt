@@ -1,4 +1,4 @@
-oAMRp - AMR Plugin for Winamp
+oAMRp - AMR Plugin for Winamp &  Foobar2000
 http://otnth.blogspot.com
 
 Release Under GPL v2.
@@ -7,3 +7,5 @@ Release Under GPL v2.
 	http://www.3gpp.org/ftp/Specs/html-info/26104.htm
 Winamp SDK
 	http://www.winamp.com/
+Foobar2000 SDK
+	http://www.foobar2000.org/SDK
